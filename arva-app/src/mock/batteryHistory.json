@@ -1,0 +1,39 @@
+{
+  "batteryData": {
+    "currentPercentage": 63,
+    "smartphoneHours": 10,
+    "smartwatchDays": 4,
+    "history": [
+      {"day": 1, "percentage": 45},
+      {"day": 2, "percentage": 52},
+      {"day": 3, "percentage": 48},
+      {"day": 4, "percentage": 55},
+      {"day": 5, "percentage": 61},
+      {"day": 6, "percentage": 58},
+      {"day": 7, "percentage": 64},
+      {"day": 8, "percentage": 67},
+      {"day": 9, "percentage": 62},
+      {"day": 10, "percentage": 69},
+      {"day": 11, "percentage": 71},
+      {"day": 12, "percentage": 68},
+      {"day": 13, "percentage": 73},
+      {"day": 14, "percentage": 76},
+      {"day": 15, "percentage": 72},
+      {"day": 16, "percentage": 78},
+      {"day": 17, "percentage": 81},
+      {"day": 18, "percentage": 77},
+      {"day": 19, "percentage": 83},
+      {"day": 20, "percentage": 86},
+      {"day": 21, "percentage": 82},
+      {"day": 22, "percentage": 88},
+      {"day": 23, "percentage": 91},
+      {"day": 24, "percentage": 87},
+      {"day": 25, "percentage": 93},
+      {"day": 26, "percentage": 96},
+      {"day": 27, "percentage": 92},
+      {"day": 28, "percentage": 95},
+      {"day": 29, "percentage": 98},
+      {"day": 30, "percentage": 63}
+    ]
+  }
+} 

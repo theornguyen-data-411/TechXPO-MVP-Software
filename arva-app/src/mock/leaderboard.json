@@ -1,0 +1,60 @@
+{
+  "leaderboard": [
+    {
+      "id": "1",
+      "name": "You",
+      "score": 2430,
+      "avatar": "https://via.placeholder.com/40",
+      "trend": "up",
+      "position": 1
+    },
+    {
+      "id": "2",
+      "name": "Jackson",
+      "score": 1847,
+      "avatar": "https://via.placeholder.com/40",
+      "trend": "up",
+      "position": 2
+    },
+    {
+      "id": "3",
+      "name": "Emma Aria",
+      "score": 1674,
+      "avatar": "https://via.placeholder.com/40",
+      "trend": "stable",
+      "position": 3
+    },
+    {
+      "id": "4",
+      "name": "Sebastian",
+      "score": 1124,
+      "avatar": "https://via.placeholder.com/40",
+      "trend": "up",
+      "position": 4
+    },
+    {
+      "id": "5",
+      "name": "Jason",
+      "score": 875,
+      "avatar": "https://via.placeholder.com/40",
+      "trend": "down",
+      "position": 5
+    },
+    {
+      "id": "6",
+      "name": "Natalie",
+      "score": 774,
+      "avatar": "https://via.placeholder.com/40",
+      "trend": "up",
+      "position": 6
+    },
+    {
+      "id": "7",
+      "name": "Serenity",
+      "score": 723,
+      "avatar": "https://via.placeholder.com/40",
+      "trend": "up",
+      "position": 7
+    }
+  ]
+} 
